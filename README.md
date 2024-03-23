@@ -1,2 +1,2 @@
-# airdrop
-airdrop
+# Solana Airdrop Bot
+Solana Airdrop Bot
